@@ -51,11 +51,12 @@ A clean interface sample using modern UI patterns and components.
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhwave&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukhWave&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhwave&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhWave&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
 
 </div>
+
 
 
 
