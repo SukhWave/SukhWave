@@ -16,15 +16,15 @@ I’m a passionate Full-Stack Web Developer who loves turning ideas into clean, 
 🛠️ Tech Stack
 Frontend
 
-HTML5 • CSS3 • JavaScript • React • Bootstrap • Tailwind CSS
+HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
 
 Backend
 
-PHP • Node.js • Express.js
+PHP • Node.js • React • Angular
 
 Databases
 
-MySQL • MongoDB
+MySQL 
 
 Tools
 
