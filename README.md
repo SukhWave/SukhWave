@@ -48,15 +48,12 @@ A clean interface sample using modern UI patterns and components.
 
 (If you want, I can help you write stronger descriptions or add more projects.)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Achievements
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SukhWave&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhWave&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![SukhWave's GitHub trophies](https://github-profile-trophy.vercel.app/?username=SukhWave&theme=radical&no-frame=true&no-bg=false&margin-w=10)
 
 </div>
-
 
 
 
